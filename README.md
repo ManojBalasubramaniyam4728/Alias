@@ -12,11 +12,11 @@ Date: 10/21/2024
   
 - Set the above path to environment variable JAVA_HOME:
   - Variable name: JAVA_HOME
-  - Variable value: C:\Program Files\RedHat\java-11-openjdk-11.0.24.0.8-1
+  - Variable value: C:\Program Files\Java\java-11-openjdk-11.0.24.0.8-1
 
 - Add JDK bin path to the environment variable Path:
   
-  C:\Program Files\RedHat\java-11-openjdk-11.0.23-2\bin
+  C:\Program Files\Java\java-11-openjdk-11.0.23-2\bin
   
 
 ### 2. Eclipse or IntelliJ IDE
