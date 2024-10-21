@@ -35,6 +35,9 @@ public class LandingScreen {
 	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Sign Up']")
 	private WebElement signUpText;
 	
+	@AndroidFindBy(xpath = "//android.widget.TextView[@text='Sign In if you already have an alias account']")
+	private WebElement signInLink;
+	
 	
 	/**
 	 * User Defined Method To UI Actions
@@ -44,8 +47,17 @@ public class LandingScreen {
 		return sf.verifyElementIsHavingExpectedText(signUpText, signUpTextScreenVerification, AppConstants.casesenstive);
 	}
 	
-	public void tapOnSignInLink(int xCoordinate, int yCoordinate) {
-		sf.tapCoordinate(driver, xCoordinate, yCoordinate);
+	public void tapOnSignInLink() {
+		int elementX = signInLink.getLocation().getX();
+	    int elementY = signInLink.getLocation().getY();
+	    int elementWidth = signInLink.getSize().getWidth();
+	    int elementHeight = signInLink.getSize().getHeight();
+
+	    // Calculate the tap coordinates
+	    // Assuming "Sign In" link is at the beginning
+	    int tapX = elementX + (elementWidth /10);
+	    int tapY = elementY + (elementHeight / 2);
+		sf.tapCoordinate(driver, tapX, tapY);
 	}
 	
 }

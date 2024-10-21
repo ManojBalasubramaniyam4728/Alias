@@ -38,7 +38,7 @@ public class TC001_verify_user_is_able_to_add_PDP_details_to_excel extends TestB
 		boolean signUpText=landingScreen.verifySignUpTextIsPresentInTheScreen(landingScreenVerification);
 		Assert.assertTrue(signUpText);
 		logger.info("Sign Up Text Is Present In The screen");
-		landingScreen.tapOnSignInLink(250,2227);
+		landingScreen.tapOnSignInLink();
 		logger.info("Succssfully taped on the Sigin Link");
 		
 		boolean signInText=signInScreen.verifySignInTextIsPresentInTheScreen(signInScreenVerification);

@@ -118,3 +118,19 @@
 2024-10-21 11:15:43,760 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully featched value text from PDP screen
 2024-10-21 11:15:44,875 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Entered featched PDP data to execl
 2024-10-21 11:15:45,074 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Start Listing Is Present In The screen
+2024-10-21 12:13:09,596 [main] INFO Verify User Is Able To Add PDP Details To Excel - Sign Up Text Is Present In The screen
+2024-10-21 12:13:10,288 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully taped on the Sigin Link
+2024-10-21 12:18:51,054 [main] INFO Verify User Is Able To Add PDP Details To Excel - Sign Up Text Is Present In The screen
+2024-10-21 12:18:51,775 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully taped on the Sigin Link
+2024-10-21 12:18:54,014 [main] INFO Verify User Is Able To Add PDP Details To Excel - Sign In Text Is Present In The screen
+2024-10-21 12:19:00,780 [main] INFO Verify User Is Able To Add PDP Details To Excel - Successfully loggined to the application
+2024-10-21 12:19:06,693 [main] INFO Verify User Is Able To Add PDP Details To Excel - Home screen Text Is Present In The screen
+2024-10-21 12:19:07,181 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully taped on the Search Icon
+2024-10-21 12:19:10,646 [main] INFO Verify User Is Able To Add PDP Details To Excel - search BarText Text Is Present In The screen
+2024-10-21 12:19:15,653 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully saerche Puma Name
+2024-10-21 12:19:18,149 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Swiped till expected Product Name is visable
+2024-10-21 12:19:21,487 [main] INFO Verify User Is Able To Add PDP Details To Excel - Details Text Is Present In The screen
+2024-10-21 12:19:42,940 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Swiped till Nick name Name is visable
+2024-10-21 12:19:43,995 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully featched value text from PDP screen
+2024-10-21 12:19:44,939 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Entered featched PDP data to execl
+2024-10-21 12:19:45,100 [main] INFO Verify User Is Able To Add PDP Details To Excel - Start Listing Is Present In The screen
