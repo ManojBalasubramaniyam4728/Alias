@@ -4,7 +4,7 @@ pipeline {
         stage('Build') {
             steps {
                 script {
-                        {  // Navigate to the correct directory
+                    dir('') {  // Navigate to the correct directory
                         if (fileExists('pom.xml')) {
                             echo "pom.xml found, proceeding with build..."
                             bat "mvn clean"
@@ -18,7 +18,7 @@ pipeline {
         stage('Compile') {
             steps {
                 script {
-                        {  // Navigate to the correct directory
+                    dir('') {  // Navigate to the correct directory
                         if (fileExists('pom.xml')) {
                             echo "pom.xml found, proceeding with compilation..."
                             bat "mvn compile"
@@ -32,7 +32,7 @@ pipeline {
         stage('Test') {
             steps {
                 script {
-                    {  // Navigate to the correct directory
+                    dir('') {  // Navigate to the correct directory
                         if (fileExists('pom.xml')) {
                             echo "pom.xml found, proceeding with tests..."
                             bat "mvn test"
