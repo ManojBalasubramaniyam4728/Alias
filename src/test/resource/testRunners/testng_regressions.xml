@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="alias Test Regression PW Suite" thread-count="5"
+	parallel="tests" verbose="4">
+
+	<listeners>
+		<listener class-name="com.qa.alias.listeners.ExtentReportListener"></listener>
+	</listeners>
+	
+	<test name="Verify User Is Able To Add PDP Details To Excel">
+		<classes>
+			<class name="com.qa.alias.tests.TC001_verify_user_is_able_to_add_PDP_details_to_excel" />
+		</classes>
+	</test>
+	
+</suite>
