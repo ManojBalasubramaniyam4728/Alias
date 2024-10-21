@@ -1,6 +1,3 @@
-Sure! Below is a structured README file based on your requirements, including detailed explanations for each dependency in your Maven pom.xml, and properly formatted:
-
----
 
 # Alias Android Appium Automation Project
 
