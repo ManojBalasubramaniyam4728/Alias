@@ -104,3 +104,17 @@
 2024-10-20 17:40:38,118 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully featched value text from PDP screen
 2024-10-20 17:40:38,826 [main] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Entered featched PDP data to execl
 2024-10-20 17:40:38,968 [main] INFO Verify User Is Able To Add PDP Details To Excel - Start Listing Is Present In The screen
+2024-10-21 11:14:39,946 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Sign Up Text Is Present In The screen
+2024-10-21 11:14:40,459 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully taped on the Sigin Link
+2024-10-21 11:14:44,722 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Sign In Text Is Present In The screen
+2024-10-21 11:14:56,689 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Successfully loggined to the application
+2024-10-21 11:15:04,103 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Home screen Text Is Present In The screen
+2024-10-21 11:15:04,841 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully taped on the Search Icon
+2024-10-21 11:15:09,217 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - search BarText Text Is Present In The screen
+2024-10-21 11:15:13,628 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully saerche Puma Name
+2024-10-21 11:15:17,280 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Swiped till expected Product Name is visable
+2024-10-21 11:15:20,894 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Details Text Is Present In The screen
+2024-10-21 11:15:42,800 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Swiped till Nick name Name is visable
+2024-10-21 11:15:43,760 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully featched value text from PDP screen
+2024-10-21 11:15:44,875 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Succssfully Entered featched PDP data to execl
+2024-10-21 11:15:45,074 [TestNG-tests-1] INFO Verify User Is Able To Add PDP Details To Excel - Start Listing Is Present In The screen

@@ -512,7 +512,7 @@ public class SeleniumFactory {
 			String line;
 			while ((line=reader.readLine())!= null) {
 				System.out.println(line);
-				if (line.contains("Boot completed")) {
+				if (line.contains("Boot completed")||line.contains("Successfully loaded snapshot")) {
 					Thread.sleep(15000);
 					System.out.print("Emulator is ready!");
 					break;

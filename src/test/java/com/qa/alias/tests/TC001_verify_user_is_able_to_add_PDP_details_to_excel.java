@@ -2,6 +2,7 @@ package com.qa.alias.tests;
 
 import java.io.IOException;
 
+
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.testng.Assert;
