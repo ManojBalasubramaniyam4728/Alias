@@ -214,7 +214,7 @@ xml
 If you find any doubts or issues, please email us:
 - Manoj: [manojbalasubramaniyam4488@gmail.com](mailto:manojbalasubramaniyam4488@gmail.com)
 - Dhanush: [dhanushsekar004@gmail.com](mailto:dhanushsekar004@gmail.com)
-- Dhanush: [praveen.mohansundar9@gmail.com](mailto:praveen.mohansundar9@gmail.com)
+- Praveen: [praveen.mohansundar9@gmail.com](mailto:praveen.mohansundar9@gmail.com)
 
 ## Author
 
